@@ -27,4 +27,4 @@ Perplexity Comet Browser, Prompt Engineering, Google Slides, Markdown, Word (DOC
 
 ## Contact
 Creator: Adithi  
-Email: [adithisuresh9@gmail.com] (replace with your contact if you want)
+Email: [adithisuresh9@gmail.com] 
