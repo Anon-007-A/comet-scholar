@@ -6,7 +6,7 @@ Turn 8 hours of research into 8 minutes — a Comet-based academic research work
 Comet Scholar is a prompt-driven workflow for the Perplexity Comet Browser that automates literature reviews: method comparisons, thematic findings, professionally formatted APA references, research gap identification, and future research questions — all in minutes.
 
 ## Quick Start
-1. Install Perplexity Comet Browser: https://pplx.ai/comet-for-devpost  
+1. Install Perplexity Comet Browser: https://perplexity.ai/comet 
 2. Open 5–7 research papers in separate Comet tabs.  
 3. Copy a prompt from `prompts.md`.  
 4. Paste the prompt into Comet and run.  
