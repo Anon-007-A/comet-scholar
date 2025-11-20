@@ -4,12 +4,16 @@ Open 3–6 research papers in separate Comet tabs, then copy the prompt below an
 
 Prompt:
 ---
-Using the open Comet tabs as sources, create a concise academic literature review (approximately 2-3 short paragraphs) with the following structure:
+Using the open Comet tabs as sources, create a concise academic literature review with this structure:
+1. INTRODUCTION (2 sentences)
+2. METHODOLOGY ANALYSIS (1 paragraph comparing methods and sample sizes across the open studies)
+3. KEY FINDINGS BY THEME (3 bullet points with inline citations (Author, Year))
+4. RESEARCH GAPS (3 bullet points with a one-sentence rationale each)
+5. FUTURE RESEARCH QUESTIONS (3 specific questions)
+6. REFERENCES (short APA style; include author and year)
 
-1. INTRODUCTION (1-2 sentences summarizing the research area)
-2. METHODOLOGY SUMMARY (one short paragraph comparing the main methods used across the open papers)
-3. KEY FINDINGS (three bullet points summarizing top findings; include inline citations in the form (Author, Year) where possible)
-4. REFERENCES (short APA-style references for the sources you used; include author and year)
+Important: Use only the open tabs. For each citation use (Author, Year). If author or year is missing, mark it as [metadata missing] rather than guessing. Be concise and academic in tone.
+
 
 Be concise and academic in tone. Use the open tabs as the only sources.
 ---
